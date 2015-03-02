@@ -2,7 +2,7 @@
 /**
  * Plugin Name: ReddiComments
  * Description: Allows you to embed reddit comments onto your posts.
- * Version: 0.1
+ * Version: 0.2
  * Author: Al Mithani
  * Author URI: http://almithani.com
  * License: GPL2
@@ -52,7 +52,7 @@ class reddiComments {
 				?> - <a href='<?php echo $atts['link'];?>' target="_blank">Join the conversation on Reddit!</a> <?php
 			} ?>
 			</p>
-			<iframe src='http://107.170.54.246/reddicomments/?url=<?php echo $atts['link'];?>' style='width: 100%; height: 500px; border: solid 2px #eee;'></iframe>
+			<iframe src='http://reddicomments.com/reddicomments/?url=<?php echo $atts['link'];?>' style='width: 100%; height: 500px; border: solid 2px #eee;'></iframe>
 			<?php
 		}
 		return ob_get_clean();
