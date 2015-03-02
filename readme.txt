@@ -2,6 +2,7 @@
 Contributors: almithani
 Tags: reddit, comments, 
 Tested up to: 4.1.1
+Stable tag: 0.2
 License: GPL 2.0
 License URI: http://choosealicense.com/licenses/gpl-2.0/
 
