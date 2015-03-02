@@ -2,7 +2,7 @@
 /**
  * Plugin Name: ReddiComments
  * Description: Allows you to embed reddit comments onto your posts.
- * Version: 0.2
+ * Version: 0.3
  * Author: Al Mithani
  * Author URI: http://almithani.com
  * License: GPL2
